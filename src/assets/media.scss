@@ -1,0 +1,38 @@
+@media (max-width: 1220px) {
+    body {
+        .client-form {
+            margin-top: 30px;
+            width: 50%;
+            border-radius: 7px;
+            padding: 40px 50px;
+        }
+    }  
+}
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+        .client-form {
+            margin: 20px 0;
+            width: 60%;
+            max-width: 700px;
+            padding: 20px 30px;
+            .input-field {
+                input, select { font-size: 14px !important; }
+            }
+        }
+    }  
+}
+@media (max-width: 550px) {
+    body {
+        .client-form {
+            width: 90%;
+            .input-group { 
+                .input-field { width: 100%; }
+            }
+        }
+        .submit-btn {
+            font-size: 18px !important;
+            padding: 8px 15px !important;
+        }
+    }  
+}
