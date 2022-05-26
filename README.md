@@ -1,15 +1,15 @@
 # Test task: Interface for the client creation form
 
-
 **Technologies**  
 • Vue.js (Vue2)  
 • Vuelidate  
 • SCSS  
 
-**Task description**  
+**Task description** 
+Make an interface for the new client creation form. The form must contain attributes:
 • Last name*  
 • Name*  
-• Patronymic
+• Patronymic  
 • Date of birth*  
 • Phone number* (11 digits. Starts at 7)  
 • Gender  
