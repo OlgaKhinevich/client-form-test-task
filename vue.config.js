@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/client-form-test-task/'
+    publicPath: '/test_task_client_form/'
 }
