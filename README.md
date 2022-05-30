@@ -1,7 +1,7 @@
 # Interface for the client creation form
 Test task for the position of Junior Frontend Developer
 
-## View the project: https://olgakhinevich.github.io/client_form_test_task/
+## View the project: [*here*](https://olgakhinevich.github.io/test_task_client_form/)
 
 ### Technologies
 + Vue.js (Vue2)  
