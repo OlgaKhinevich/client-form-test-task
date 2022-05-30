@@ -38,5 +38,5 @@ Make an interface for the new client creation form. The form must contain attrib
 ### Employer's requirements  
 + It wasn't allowed to use any third-party (CSS/JS/Vue/Etc) libraries other than those specified in the task.  
 + If there are no errors, it's necessary to show a message that a new client has been successfully created.  
-+ The form should be adaptive.  
++ The form should be responsive.  
 + Special attention had to be paid to UI/UX and the visual appearance of the form.  
